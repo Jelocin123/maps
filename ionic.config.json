@@ -1,0 +1,7 @@
+{
+  "name": "edu_locmypostion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
